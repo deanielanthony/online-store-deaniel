@@ -21,7 +21,7 @@
 }
 
 html {
-    font-size: 80%;
+    font-size: 62%;
     overflow-x: hidden;
 }
 
@@ -118,7 +118,7 @@ section {
 }
 
 .home-content h1 {
-    font-size: 4.2rem;
+    font-size: 5.7rem;
     font-weight: 600;
     margin-top: 1.5rem;
     line-height: 1;
@@ -645,6 +645,7 @@ section {
         display: block;
         position: absolute;
         left: 40px;
+        top: 20px;
     }
     .navbar {
         position: absolute;
